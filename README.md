@@ -7,4 +7,4 @@ Research Assistant Using LangGraph and simple python to demonstrate that depedni
 Python, Ollama, ollama python-client, langgraph.
 
 # Note
-I did not the working environment solely for this exploration. Please creta your own as you explore this. All the libraries used in this exploration are available via pip.
+I did not build the working environment solely for this exploration. Please create your own as you explore this. All the libraries used in this exploration are available via pip.
