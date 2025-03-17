@@ -2,6 +2,7 @@
 Research Assistant Using LangGraph and simple python to demonstrate that depedning on your usecase you don't need facy libraries to achieve a given goal.
 
 # Link to Medium article
+https://medium.com/@keerthi.ningegowda/ai-agents-or-ai-workflows-where-is-agency-f340aaa402f5
 
 # Technology used
 Python, Ollama, ollama python-client, langgraph.
